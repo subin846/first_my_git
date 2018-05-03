@@ -8,9 +8,12 @@
 		<style></style>
 	</head>
 	<body>
-		<ul>
-			<li>첫번째 리스트</li>
-		</ul>
+		<ol>
+			<li>LIST</li>
+			<li>LIST</li>
+			<li>LIST</li>
+			<li>LIST</li>
+		</ol>
 	</body>
 	<script></script>
 </html>
