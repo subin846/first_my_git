@@ -18,6 +18,7 @@
 			<li>LIST</li>
 			<li>LIST</li>
 		</ol>
+		<p>리스트 마감</p>
 	</body>
 	<script></script>
 </html>
