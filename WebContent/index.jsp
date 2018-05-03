@@ -19,8 +19,9 @@
 				<td><input type="password" name="userPw"/></td>
 			</tr>
 			<tr>
-				<td colspan="2"></td>
-				<td></td>
+				<td colspan="2">
+					<button>로그인</button>
+				</td>
 			</tr>
 		</table>
 	</body>
